@@ -1,2 +1,2 @@
 # Book-Recommendation-System
-Content based using Python 
+Creating a content-based book recommendar using Python 
